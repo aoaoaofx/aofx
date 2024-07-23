@@ -1,0 +1,12 @@
+
+server:
+  port: 1888
+
+
+spring:
+  thymeleaf:
+    mode: HTML5
+    encoding: UTF-8
+    servlet:
+      content-type: text/html; charset=utf-8
+    cache: false
